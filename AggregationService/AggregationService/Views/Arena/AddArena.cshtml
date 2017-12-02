@@ -1,0 +1,43 @@
+﻿@model AggregationService.Models.ArenaService.Arena
+
+@{
+    ViewData["Title"] = "AddArena";
+}
+
+<h2>AddArena</h2>
+
+<h4>Arena</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddArena">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ArenaName" class="control-label"></label>
+                <input asp-for="ArenaName" class="form-control" />
+                <span asp-validation-for="ArenaName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Capacity" class="control-label"></label>
+                <input asp-for="Capacity" class="form-control" />
+                <span asp-validation-for="Capacity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CityID" class="control-label"></label>
+                <input asp-for="CityID" class="form-control" />
+                <span asp-validation-for="CityID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

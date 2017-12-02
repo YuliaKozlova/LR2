@@ -1,0 +1,11 @@
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ArtistService\ConcerteService\bin\Debug\netcoreapp2.0\ArtistService.deps.json
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ArtistService\ConcerteService\bin\Debug\netcoreapp2.0\ArtistService.runtimeconfig.json
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ArtistService\ConcerteService\bin\Debug\netcoreapp2.0\ArtistService.runtimeconfig.dev.json
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ArtistService\ConcerteService\bin\Debug\netcoreapp2.0\ArtistService.dll
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ArtistService\ConcerteService\obj\Debug\netcoreapp2.0\ArtistService.csprojResolveAssemblyReference.cache
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ArtistService\ConcerteService\obj\Debug\netcoreapp2.0\ArtistService.csproj.CoreCompileInputs.cache
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ArtistService\ConcerteService\obj\Debug\netcoreapp2.0\ArtistService.AssemblyInfoInputs.cache
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ArtistService\ConcerteService\obj\Debug\netcoreapp2.0\ArtistService.AssemblyInfo.cs
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ArtistService\ConcerteService\bin\Debug\netcoreapp2.0\ArtistService.pdb
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ArtistService\ConcerteService\obj\Debug\netcoreapp2.0\ArtistService.dll
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ArtistService\ConcerteService\obj\Debug\netcoreapp2.0\ArtistService.pdb

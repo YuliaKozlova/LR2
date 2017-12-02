@@ -1,0 +1,11 @@
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ConcerteService\ConcerteService\bin\Debug\netcoreapp2.0\ConcerteService.deps.json
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ConcerteService\ConcerteService\bin\Debug\netcoreapp2.0\ConcerteService.runtimeconfig.json
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ConcerteService\ConcerteService\bin\Debug\netcoreapp2.0\ConcerteService.runtimeconfig.dev.json
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ConcerteService\ConcerteService\bin\Debug\netcoreapp2.0\ConcerteService.dll
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ConcerteService\ConcerteService\obj\Debug\netcoreapp2.0\ConcerteService.csprojResolveAssemblyReference.cache
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ConcerteService\ConcerteService\obj\Debug\netcoreapp2.0\ConcerteService.csproj.CoreCompileInputs.cache
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ConcerteService\ConcerteService\obj\Debug\netcoreapp2.0\ConcerteService.AssemblyInfoInputs.cache
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ConcerteService\ConcerteService\obj\Debug\netcoreapp2.0\ConcerteService.AssemblyInfo.cs
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ConcerteService\ConcerteService\bin\Debug\netcoreapp2.0\ConcerteService.pdb
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ConcerteService\ConcerteService\obj\Debug\netcoreapp2.0\ConcerteService.dll
+C:\Users\Natasha\Desktop\LR2\LR2_NEW\ConcerteService\ConcerteService\obj\Debug\netcoreapp2.0\ConcerteService.pdb
