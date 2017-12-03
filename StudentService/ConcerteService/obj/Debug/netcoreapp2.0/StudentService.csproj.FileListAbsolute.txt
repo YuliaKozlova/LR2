@@ -1,0 +1,11 @@
+D:\Desktop\GITLR2\StudentService\ConcerteService\bin\Debug\netcoreapp2.0\StudentService.deps.json
+D:\Desktop\GITLR2\StudentService\ConcerteService\bin\Debug\netcoreapp2.0\StudentService.runtimeconfig.json
+D:\Desktop\GITLR2\StudentService\ConcerteService\bin\Debug\netcoreapp2.0\StudentService.runtimeconfig.dev.json
+D:\Desktop\GITLR2\StudentService\ConcerteService\bin\Debug\netcoreapp2.0\StudentService.dll
+D:\Desktop\GITLR2\StudentService\ConcerteService\bin\Debug\netcoreapp2.0\StudentService.pdb
+D:\Desktop\GITLR2\StudentService\ConcerteService\obj\Debug\netcoreapp2.0\StudentService.csproj.CoreCompileInputs.cache
+D:\Desktop\GITLR2\StudentService\ConcerteService\obj\Debug\netcoreapp2.0\StudentService.AssemblyInfoInputs.cache
+D:\Desktop\GITLR2\StudentService\ConcerteService\obj\Debug\netcoreapp2.0\StudentService.AssemblyInfo.cs
+D:\Desktop\GITLR2\StudentService\ConcerteService\obj\Debug\netcoreapp2.0\StudentService.dll
+D:\Desktop\GITLR2\StudentService\ConcerteService\obj\Debug\netcoreapp2.0\StudentService.pdb
+D:\Desktop\GITLR2\StudentService\ConcerteService\obj\Debug\netcoreapp2.0\StudentService.csprojResolveAssemblyReference.cache

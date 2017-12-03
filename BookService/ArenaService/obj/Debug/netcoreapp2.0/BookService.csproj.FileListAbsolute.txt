@@ -1,0 +1,11 @@
+D:\Desktop\GITLR2\BookService\ArenaService\obj\Debug\netcoreapp2.0\BookService.csprojResolveAssemblyReference.cache
+D:\Desktop\GITLR2\BookService\ArenaService\obj\Debug\netcoreapp2.0\BookService.csproj.CoreCompileInputs.cache
+D:\Desktop\GITLR2\BookService\ArenaService\obj\Debug\netcoreapp2.0\BookService.AssemblyInfoInputs.cache
+D:\Desktop\GITLR2\BookService\ArenaService\obj\Debug\netcoreapp2.0\BookService.AssemblyInfo.cs
+D:\Desktop\GITLR2\BookService\ArenaService\bin\Debug\netcoreapp2.0\BookService.deps.json
+D:\Desktop\GITLR2\BookService\ArenaService\bin\Debug\netcoreapp2.0\BookService.runtimeconfig.json
+D:\Desktop\GITLR2\BookService\ArenaService\bin\Debug\netcoreapp2.0\BookService.runtimeconfig.dev.json
+D:\Desktop\GITLR2\BookService\ArenaService\bin\Debug\netcoreapp2.0\BookService.dll
+D:\Desktop\GITLR2\BookService\ArenaService\bin\Debug\netcoreapp2.0\BookService.pdb
+D:\Desktop\GITLR2\BookService\ArenaService\obj\Debug\netcoreapp2.0\BookService.dll
+D:\Desktop\GITLR2\BookService\ArenaService\obj\Debug\netcoreapp2.0\BookService.pdb
