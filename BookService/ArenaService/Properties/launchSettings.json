@@ -1,5 +1,6 @@
+
 {
-  "iisSettings": {
+    "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
@@ -7,11 +8,12 @@
       "sslPort": 0
     }
   },
+
   "profiles": {
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/Book",
+      "launchUrl": "api/Books",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -19,7 +21,7 @@
     "BookService": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/Book",
+      "launchUrl": "api/Books",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },

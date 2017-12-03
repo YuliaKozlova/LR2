@@ -61,7 +61,7 @@ namespace Bookservice.Controllers
             var qry = _context.Books.OrderBy(p => p.BookName);
             foreach (Book a in qry)
             {
-                _context.Entry(a).Navigation("Book").Load();
+                _context.Entry(a).Navigation("Author").Load();
             }
 
             PagingList<Book> BooksList;
