@@ -29,7 +29,12 @@ namespace ConcerteService.Data
                 new Student { StudentName = "Panasenko Maria Alekseevna", NumberOfRecord = 35454545},
                 new Student { StudentName = "Volgov Andrey Viktorovich", NumberOfRecord = 4423424},
                 new Student { StudentName = "Grishin Viktor Ivanovich", NumberOfRecord = 8432423},
-                new Student { StudentName = "Golubev Victor Aleksandrovich", NumberOfRecord = 434349}
+                new Student { StudentName = "Golubev Victor Aleksandrovich", NumberOfRecord = 434349},
+                new Student { StudentName = "Popov Aleksey Viktorovich", NumberOfRecord = 434659},
+                new Student { StudentName = "Popova Olga Viktorovna", NumberOfRecord = 898965},
+                new Student { StudentName = "Ivanov Ivan Ivanovich", NumberOfRecord = 2312312},
+                new Student { StudentName = "Pavlova Olga Vladimirovna", NumberOfRecord = 6657657},
+                new Student { StudentName = "Soboleva Yulia Dmitrievna", NumberOfRecord = 6456565},
             };
 
             foreach (Student s in Students)

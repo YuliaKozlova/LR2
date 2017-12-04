@@ -6449,7 +6449,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.SqlServer/2.0.0": {
-      "sha512": "ivsMGJ4yIZZBzBbqdeceo1ZE5bRqbI/ULfp8rqZB7bDkbGLINtTTrh2xY/oC8NRVrOCDqrMXQ03kQNvvdEB1CA==",
+      "sha512": "mr+S07kAKXsdu9207w1ek4O1/0+y5925kMYy7gCqu15QpvfVXOLdAR0b9RQfBxmtAJPrYx6/KtfvAg70jm5zUA==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.sqlserver/2.0.0",
       "files": [
@@ -13142,7 +13142,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Natasha\\.nuget\\packages\\": {},
+    "C:\\Users\\Eldo\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13151,17 +13151,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Natasha\\Desktop\\LR2\\LR2_NEW\\ConcerteService\\ConcerteService\\ConcerteService\\ConcerteService.csproj",
+      "projectUniqueName": "D:\\Desktop\\GITLR2\\ConcerteService\\ConcerteService\\ConcerteService\\ConcerteService.csproj",
       "projectName": "ConcerteService",
-      "projectPath": "C:\\Users\\Natasha\\Desktop\\LR2\\LR2_NEW\\ConcerteService\\ConcerteService\\ConcerteService\\ConcerteService.csproj",
-      "packagesPath": "C:\\Users\\Natasha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Natasha\\Desktop\\LR2\\LR2_NEW\\ConcerteService\\ConcerteService\\ConcerteService\\obj\\",
+      "projectPath": "D:\\Desktop\\GITLR2\\ConcerteService\\ConcerteService\\ConcerteService\\ConcerteService.csproj",
+      "packagesPath": "C:\\Users\\Eldo\\.nuget\\packages\\",
+      "outputPath": "D:\\Desktop\\GITLR2\\ConcerteService\\ConcerteService\\ConcerteService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Natasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Eldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -21,8 +21,10 @@ namespace BookService.Data
             var authors = new Author[]
             {
                 new Author{AuthorName = "Alexander", AuthorSurname = "Pushkin", AuthorYearOfBirth=1799},
-                new Author{AuthorName = "Mikhail", AuthorSurname = "Lermontov", AuthorYearOfBirth=1814},
-                new Author{AuthorName = "Lev", AuthorSurname = "Tolstoy", AuthorYearOfBirth=1828}
+                new Author{AuthorName = "Mikhail", AuthorSurname = "Lermontov",   AuthorYearOfBirth=1814},
+                new Author{AuthorName = "Lev", AuthorSurname = "Tolstoy",  AuthorYearOfBirth=1828},
+                new Author{AuthorName = "Ivan", AuthorSurname = "Turgenev",  AuthorYearOfBirth=1818},
+                new Author{AuthorName = "Fyodor", AuthorSurname = "Dostoevsky", AuthorYearOfBirth=1821},
             };
             foreach (Author c in authors)
             {
@@ -37,7 +39,12 @@ namespace BookService.Data
                 new Book{ BookName = "Borodino", NumberOfPage = 250, AuthorID  = 2},
                 new Book{ BookName = "Countess Ligovskoy", NumberOfPage = 340, AuthorID  = 2},
                 new Book{ BookName = "Bronze horseman", NumberOfPage = 237, AuthorID  =1},
-                new Book{ BookName = "The captain's daughter", NumberOfPage = 450, AuthorID  = 1},           
+                new Book{ BookName = "The captain's daughter", NumberOfPage = 450, AuthorID  = 1},
+                new Book{ BookName = "Fathers and sons", NumberOfPage = 450, AuthorID  = 4},
+                new Book{ BookName = "Mumu", NumberOfPage = 250, AuthorID  = 4},
+                new Book{ BookName = "Crime and punishment", NumberOfPage = 378, AuthorID  = 5},
+                new Book{ BookName = "Player", NumberOfPage = 378, AuthorID  = 5},
+
             };
             foreach (Book a in books)
             {

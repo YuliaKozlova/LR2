@@ -9,3 +9,7 @@ C:\Users\Natasha\Desktop\LR2\LR2_NEW\ConcerteService\ConcerteService\ConcerteSer
 C:\Users\Natasha\Desktop\LR2\LR2_NEW\ConcerteService\ConcerteService\ConcerteService\obj\Debug\netcoreapp2.0\ConcerteService.AssemblyInfo.cs
 C:\Users\Natasha\Desktop\LR2\LR2_NEW\ConcerteService\ConcerteService\ConcerteService\obj\Debug\netcoreapp2.0\ConcerteService.dll
 C:\Users\Natasha\Desktop\LR2\LR2_NEW\ConcerteService\ConcerteService\ConcerteService\obj\Debug\netcoreapp2.0\ConcerteService.pdb
+D:\Desktop\GITLR2\ConcerteService\ConcerteService\ConcerteService\obj\Debug\netcoreapp2.0\ConcerteService.csprojResolveAssemblyReference.cache
+D:\Desktop\GITLR2\ConcerteService\ConcerteService\ConcerteService\obj\Debug\netcoreapp2.0\ConcerteService.csproj.CoreCompileInputs.cache
+D:\Desktop\GITLR2\ConcerteService\ConcerteService\ConcerteService\obj\Debug\netcoreapp2.0\ConcerteService.AssemblyInfoInputs.cache
+D:\Desktop\GITLR2\ConcerteService\ConcerteService\ConcerteService\obj\Debug\netcoreapp2.0\ConcerteService.AssemblyInfo.cs
