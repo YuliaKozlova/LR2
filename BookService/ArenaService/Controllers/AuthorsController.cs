@@ -73,6 +73,7 @@ namespace BookService.Controllers
             try
             {
                 await _context.SaveChangesAsync();
+                return Accepted(Author);
             }
             catch (DbUpdateConcurrencyException)
             {
@@ -86,7 +87,7 @@ namespace BookService.Controllers
                 }
             }
 
-            return NoContent();
+            //return NoContent();
         }
 
 

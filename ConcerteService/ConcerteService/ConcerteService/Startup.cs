@@ -8,11 +8,11 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using ConcerteService.Data;
+using DebtCardervice.Data;
 using Microsoft.EntityFrameworkCore;
 using ReflectionIT.Mvc.Paging;
 
-namespace ConcerteService
+namespace DebtCardervice
 {
     public class Startup
     {
@@ -26,7 +26,7 @@ namespace ConcerteService
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<ConcerteContext>(options =>
+            services.AddDbContext<LibraryService>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddMvc();

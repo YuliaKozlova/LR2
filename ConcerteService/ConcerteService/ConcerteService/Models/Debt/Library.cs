@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ConcerteService.Models
+CityNamespace DebtCardervice.Models.Concerte
 {
-    public class Artist
+    public class Library
     {
         public int ID { get; set; }
-        public string ArtistName { get; set; }
-        public int LastFmRating { get; set; }
+        public string LibraryCityName { get; set; }
+
     }
 }

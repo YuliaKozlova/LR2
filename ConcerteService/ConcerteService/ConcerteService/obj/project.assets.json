@@ -13151,9 +13151,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\GITLR2\\ConcerteService\\ConcerteService\\ConcerteService\\ConcerteService.csproj",
-      "projectName": "ConcerteService",
-      "projectPath": "D:\\Desktop\\GITLR2\\ConcerteService\\ConcerteService\\ConcerteService\\ConcerteService.csproj",
+      "projectUniqueName": "D:\\Desktop\\GITLR2\\ConcerteService\\ConcerteService\\ConcerteService\\LibrarySevice.csproj",
+      "projectName": "LibrarySevice",
+      "projectPath": "D:\\Desktop\\GITLR2\\ConcerteService\\ConcerteService\\ConcerteService\\LibrarySevice.csproj",
       "packagesPath": "C:\\Users\\Eldo\\.nuget\\packages\\",
       "outputPath": "D:\\Desktop\\GITLR2\\ConcerteService\\ConcerteService\\ConcerteService\\obj\\",
       "projectStyle": "PackageReference",

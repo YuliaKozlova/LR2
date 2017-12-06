@@ -8,9 +8,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
-using ConcerteService.Data;
+using DebtCardervice.Data;
 
-namespace ConcerteService
+namespace DebtCardervice
 {
     public class Program
     {
@@ -23,7 +23,7 @@ namespace ConcerteService
                 var services = scope.ServiceProvider;
                 try
                 {
-                    var context = services.GetRequiredService<ConcerteContext>();
+                    var context = services.GetRequiredService<LibraryService>();
                     DbInitializer.Initialize(context);
                 }
                 catch (Exception ex)

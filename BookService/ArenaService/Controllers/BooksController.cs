@@ -35,10 +35,10 @@ namespace Bookservice.Controllers
         public List<Book> GetBooks([FromRoute] int page = 1)
         {
             var qry = _context.Books.OrderBy(p => p.BookName);
-            foreach (Book a in qry)
-            {
-                _context.Entry(a).Navigation("Book").Load();
-            }
+            //foreach (Book a in qry)
+            //{
+            //    _context.Entry(a).Navigation("Book").Load();
+            //}
 
             PagingList<Book> BooksList;
             if (page != 0)

@@ -9,17 +9,17 @@
   },
   "profiles": {
     "IIS Express": {
-      "commandName": "IISExpress",
+      "commandCityName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/values",
+      "launchUrl": "api/DebtCard/Valid",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "ConcerteService": {
-      "commandName": "Project",
+    "DebtCardervice": {
+      "commandCityName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/values",
+      "launchUrl": "api/DebtCard/Valid",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },

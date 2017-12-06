@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ConcerteService.Logger
+namespace DebtCardervice.Logger
 {
     public static class Logger
     {
