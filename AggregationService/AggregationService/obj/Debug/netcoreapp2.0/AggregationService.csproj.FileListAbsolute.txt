@@ -31,3 +31,14 @@ C:\Users\Natasha\Desktop\LR2\LR2_NEW\AggregationService\AggregationService\obj\D
 C:\Users\Natasha\Desktop\LR2\LR2_NEW\AggregationService\AggregationService\obj\Debug\netcoreapp2.0\AggregationService.AssemblyInfo.cs
 C:\Users\Natasha\Desktop\LR2\LR2_NEW\AggregationService\AggregationService\obj\Debug\netcoreapp2.0\AggregationService.dll
 C:\Users\Natasha\Desktop\LR2\LR2_NEW\AggregationService\AggregationService\obj\Debug\netcoreapp2.0\AggregationService.pdb
+D:\Desktop\GITLR2\AggregationService\AggregationService\bin\Debug\netcoreapp2.0\AggregationService.deps.json
+D:\Desktop\GITLR2\AggregationService\AggregationService\bin\Debug\netcoreapp2.0\AggregationService.runtimeconfig.json
+D:\Desktop\GITLR2\AggregationService\AggregationService\bin\Debug\netcoreapp2.0\AggregationService.runtimeconfig.dev.json
+D:\Desktop\GITLR2\AggregationService\AggregationService\bin\Debug\netcoreapp2.0\AggregationService.dll
+D:\Desktop\GITLR2\AggregationService\AggregationService\bin\Debug\netcoreapp2.0\AggregationService.pdb
+D:\Desktop\GITLR2\AggregationService\AggregationService\obj\Debug\netcoreapp2.0\AggregationService.csprojResolveAssemblyReference.cache
+D:\Desktop\GITLR2\AggregationService\AggregationService\obj\Debug\netcoreapp2.0\AggregationService.csproj.CoreCompileInputs.cache
+D:\Desktop\GITLR2\AggregationService\AggregationService\obj\Debug\netcoreapp2.0\AggregationService.AssemblyInfoInputs.cache
+D:\Desktop\GITLR2\AggregationService\AggregationService\obj\Debug\netcoreapp2.0\AggregationService.AssemblyInfo.cs
+D:\Desktop\GITLR2\AggregationService\AggregationService\obj\Debug\netcoreapp2.0\AggregationService.dll
+D:\Desktop\GITLR2\AggregationService\AggregationService\obj\Debug\netcoreapp2.0\AggregationService.pdb

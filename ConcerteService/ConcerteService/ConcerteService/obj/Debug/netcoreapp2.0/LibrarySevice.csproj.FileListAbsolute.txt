@@ -1,4 +1,0 @@
-D:\Desktop\GITLR2\ConcerteService\ConcerteService\ConcerteService\obj\Debug\netcoreapp2.0\LibrarySevice.csproj.CoreCompileInputs.cache
-D:\Desktop\GITLR2\ConcerteService\ConcerteService\ConcerteService\obj\Debug\netcoreapp2.0\LibrarySevice.AssemblyInfoInputs.cache
-D:\Desktop\GITLR2\ConcerteService\ConcerteService\ConcerteService\obj\Debug\netcoreapp2.0\LibrarySevice.AssemblyInfo.cs
-D:\Desktop\GITLR2\ConcerteService\ConcerteService\ConcerteService\obj\Debug\netcoreapp2.0\LibrarySevice.csprojResolveAssemblyReference.cache
